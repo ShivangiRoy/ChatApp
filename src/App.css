@@ -1,0 +1,9 @@
+.App {
+  display: flexbox;
+  flex-direction: row;
+  height: 70%;
+}
+
+.flex {
+  display: inline;
+}
